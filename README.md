@@ -1,2 +1,2 @@
 # symmetric-sor-
-there are two approach applied, i.e. component form and matrix form
+there are two approaches applied, i.e. component form and matrix form
