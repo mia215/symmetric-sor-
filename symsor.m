@@ -1,7 +1,7 @@
 % iterative method in matrix form
 
 function x = symsor(A,b,xprev,omega,tol,max_iter) 
-  n = length(A);
+  
   D = diag(diag(A));
   L = tril(A)-D;
   U = triu(A)-D;
